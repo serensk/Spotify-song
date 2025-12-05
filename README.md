@@ -1,1 +1,1 @@
-# Spotify-song
+We will build a machine learning model that will predict if a user will skip a song or not given information about the user’s previous actions during a listening session along with acoustic features of the previous songs.
